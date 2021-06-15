@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class program1_Scanner{
 public static void main(String[] args){
 
-int n, sum=0;
+
 Scanner s = new Scanner(System.in);
 
 int a[] = new int[5];
