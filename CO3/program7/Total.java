@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.Arrays;
+
 
 interface Product{
 void product_id();
